@@ -1,6 +1,6 @@
 # Oficina Mecanica
 
-O seguinte modelo conceitual encontrado no arquivo "Oficina-Mecanica.pdf", demonstra um esquema de um sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica. Nesse modelo temos as seguintes entidades: "OS" abraviação de 'Ordem de Serviço', "Cliente", "Veiculo", "Serviço", "Equipe Mecanica", "Mecanico", "Peca". Seus relacionamentos são:
+O seguinte modelo conceitual encontrado no arquivo "Oficina-Mecanica.pdf", demonstra um esquema de um sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica. Nesse modelo temos as seguintes entidades: "OS" abreviação de 'Ordem de Serviço', "Cliente", "Veiculo", "Serviço", "Equipe Mecanica", "Mecanico", "Peca". Seus relacionamentos são:
 
 - "cliente" pode ter 1 ou mais veiculos, e "veiculo" pode pertencer a apenas 1 cliente;
 - "veiculo" pode ter 1 ou mais OS, uma "OS" pode ter apenas um veiculo;
